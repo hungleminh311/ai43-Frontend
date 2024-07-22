@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Affordable, Flexible, and Hassle-Free Car Rentals Near You",
+        "title": "Drive Your Journey, Your Way!"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Affordable, Flexible, and Hassle-Free Car Rentals Near You",
+        "title": "Drive Your Journey, Your Way!"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Affordable, Flexible, and Hassle-Free Car Rentals Near You",
+        "title": "Drive Your Journey, Your Way!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Affordable, Flexible, and Hassle-Free Car Rentals Near You",
+        "title": "Drive Your Journey, Your Way!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Affordable, Flexible, and Hassle-Free Car Rentals Near You",
+        "title": "Drive Your Journey, Your Way!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Affordable, Flexible, and Hassle-Free Car Rentals Near You",
+        "title": "Drive Your Journey, Your Way!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Affordable, Flexible, and Hassle-Free Car Rentals Near You",
+        "title": "Drive Your Journey, Your Way!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Affordable, Flexible, and Hassle-Free Car Rentals Near You",
+        "title": "Drive Your Journey, Your Way!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Affordable, Flexible, and Hassle-Free Car Rentals Near You",
+        "title": "Drive Your Journey, Your Way!"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Drive Your Journey, Your Way!",
+  "subtitle": "Affordable, Flexible, and Hassle-Free Car Rentals Near You"
+}
